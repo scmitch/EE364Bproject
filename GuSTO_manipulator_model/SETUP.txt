@@ -1,0 +1,5 @@
+How to use:
+1. Place manipulator.jl in the Models folder of the Gusto_quad_astrobee directory.
+2. Place the notebook in the main Gusto_quad_astrobee directory.
+Run the notebook, we don't have plotting yet but it should say "Accept solution".
+You can modify the initial/final conditions in manipulator.jl. The places that are interesting to modify are marked with TODO.
